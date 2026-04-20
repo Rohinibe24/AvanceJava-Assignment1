@@ -12,6 +12,6 @@ Linkedliist5-o/p:https://github.com/Rohinibe24/AvanceJava-Assignment1/blob/main/
 Listinterface1-o/p: https://github.com/Rohinibe24/AvanceJava-Assignment1/blob/main/LAB1/Listinterface_output.png
 lab2Performancetest-o/p: https://github.com/Rohinibe24/AvanceJava-Assignment1/blob/main/LAB2/PerformanceTest.java
 lab2StringHandling-o/p: https://github.com/Rohinibe24/AvanceJava-Assignment1/blob/main/LAB2/StringHnadlingDemo.png
-
+lab3StringBuildingFunctions-o/p :https://github.com/Rohinibe24/AvanceJava-Assignment1/blob/main/LAB3/lab3output.png
 
 
